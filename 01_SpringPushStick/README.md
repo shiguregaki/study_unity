@@ -21,3 +21,8 @@
 
 [NG_CASE/ハマったこと1/NG1_StickController.cs](NG_CASE/ハマったこと1/NG1_StickController.cs)
 
+## 参考
+
+* [Spring Jointのマニュアル](https://docs.unity3d.com/ja/current/Manual/class-SpringJoint.html)
+* [UnityのSpring Jointを使う](https://qiita.com/yanosen_jp/items/1642fb928a140146cf1b)
+
