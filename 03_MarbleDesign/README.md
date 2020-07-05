@@ -68,7 +68,7 @@ MK Glass Freeさんのシェーダーを黒、赤、青ビー玉用のマテリ�
 
 ### 使い方
 1. study_unity/03_MarbleDesignをご自分の環境に読み込ませてください。
-2. シーン名：「TsumikiTechTimes」を開いてください。
+2. シーン名：「MkGlassFree」を開いてください。
 3. Unity Asset Storeで「[MkGlassFree](https://assetstore.unity.com/packages/vfx/shaders/mk-glass-free-100712)」をインストールしてください。
 4. Assets/03_MkGlassFree/MarbleDesign03配下にあるマテリアルに「MkGlassFree」を設定します。
 

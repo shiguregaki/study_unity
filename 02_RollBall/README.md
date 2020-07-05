@@ -23,6 +23,10 @@
 
 自分が作りたいのはビー玉と釘が衝突時の動作を表現したかったのですが、「Rigidbody」のみでは厳しそうだということが分かりました。
 
+### 使い方
+1. study_unity/02_RollBallをご自分の環境に読み込ませてください。
+2. シーン名：「RollBall-UnityLearn」を開いてください。
+
 ### 参考
 
 * [【Unity 入門】【チュートリアル】玉転がしゲームを作る](https://baba-s.hatenablog.com/entry/roll-ball-tutorial)
@@ -47,6 +51,10 @@
 上の動画のように、「Rigidbody」に「Physic Material」を追加することでオブジェクトの跳ね返りが表現できました。
 
 パラメータをいじればビー玉と釘の間の跳ね返りを表現できそうです。
+
+### 使い方
+1. study_unity/02_RollBallをご自分の環境に読み込ませてください。
+2. シーン名：「RollBall-PhysicMaterial」を開いてください。
 
 ### 参考
 
