@@ -62,7 +62,7 @@ Tsumiki Tech Timesさんのシェーダーの_Colorで色を変えることが�
 
 MK Glass Freeさんのシェーダーを黒、赤、青ビー玉用のマテリアルに紐づけて、Inspectorから色を変更しました。
 
-![](docs/TsumikiTechTimes.gif)
+![](docs/MkGlassFree.gif)
 
 反射までしていて、よりガラス感を表現できそうです！
 
